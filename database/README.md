@@ -1,27 +1,51 @@
 # PostgreSQL layer
 
-This folder contains the PostgreSQL schema and view layer used to turn the original CSV-based project into a database-backed analytics workflow.
+This folder contains the PostgreSQL schema and view layer that turns the original CSV-based project into a database-backed analytics workflow.
 
 ## Files
 
-- `schema/00_full_setup.sql` — creates the `drug_combo` schema, base tables, inserts the project data, and defines the dashboard-facing views
+- `schema/00_full_setup.sql` — recommended one-step `psql` setup
+- `schema/00_schema.sql` — creates the `drug_combo` schema, base tables, and indexes
+- `schema/01_load_from_csv_psql.sql` — loads `data/processed/sql/*.csv` with `\copy`
+- `schema/01_load_from_csv_pgadmin_template.sql` — pgAdmin / Query Tool template using server-side `COPY`
+- `schema/02_views.sql` — creates the dashboard-facing analytical views
 - `queries/validation_queries.sql` — sanity checks for row counts, KPI outputs, and Tableau-facing views
 - `erd.md` — compact entity relationship diagram
 
-## Setup
+## Recommended setup (`psql`)
 
-Create a PostgreSQL database, then run:
+Generate the processed CSVs first if needed:
+
+```bash
+python src/data_processing/generate_processed_data.py
+```
+
+Then, **from the repository root**, run:
 
 ```bash
 psql -d drug_combo -f database/schema/00_full_setup.sql
 ```
 
-The script creates a **schema** named `drug_combo` inside your chosen database. A clean setup is to use:
+That wrapper script runs:
+1. `00_schema.sql`
+2. `01_load_from_csv_psql.sql`
+3. `02_views.sql`
 
-- database name: `drug_combo`
-- schema name: `drug_combo`
+The repository-root working directory matters because the `\copy` commands read from:
+- `data/processed/sql/drugs.csv`
+- `data/processed/sql/observations.csv`
+- `data/processed/sql/observation_doses.csv`
+- `data/processed/sql/model_performance_reported.csv`
 
-That lets Tableau connect to the `drug_combo` database and query objects such as `drug_combo.vw_top_combinations`.
+## pgAdmin / Query Tool alternative
+
+If you prefer pgAdmin, run these scripts in order:
+
+1. `schema/00_schema.sql`
+2. `schema/01_load_from_csv_pgadmin_template.sql`
+3. `schema/02_views.sql`
+
+For step 2, replace `__REPO_ROOT__` with the absolute path to your cloned repository. Use forward slashes even on Windows. This option relies on PostgreSQL server-side `COPY`, so it only works if the PostgreSQL server process can read those files.
 
 ## Base tables
 
@@ -46,6 +70,6 @@ After loading the schema, run:
 psql -d drug_combo -f database/queries/validation_queries.sql
 ```
 
-Or copy the individual queries into pgAdmin's Query Tool.
+Or paste the individual queries into pgAdmin's Query Tool.
 
 The validation script checks expected row counts and previews the main dashboard-facing views.

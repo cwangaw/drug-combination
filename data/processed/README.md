@@ -1,7 +1,7 @@
 # Processed data
 
 This directory contains **derived CSVs** generated from `data/raw/drug_viability_data.csv` plus the
-**reported model-performance table** already encoded in `database/schema/00_full_setup.sql`.
+**reported model-performance table** used by the SQL / Tableau layer.
 
 Regenerate everything with Python 3 (plus `pandas` and `numpy`) installed:
 
@@ -14,10 +14,10 @@ The generator writes three groups of outputs:
 ## `modeling/`
 Model-ready tables for the statistical-learning workflow.
 
-- `clean.csv` - raw dataset with cleaned column names (`experiment_id`, `cell_viability`)
-- `raw_doses.csv` - 14-feature quadratic/interaction matrix built on raw dose levels
-- `feature_scaled.csv` - the same 14-feature matrix after column-wise min-max scaling
-- `standardized.csv` - the same 14-feature matrix after column-wise z-score standardization
+- `clean.csv` — raw dataset with cleaned column names (`experiment_id`, `cell_viability`)
+- `raw_doses.csv` — 14-feature quadratic / interaction matrix built on raw dose levels
+- `feature_scaled.csv` — the same 14-feature matrix after column-wise min-max scaling
+- `standardized.csv` — the same 14-feature matrix after column-wise z-score standardization
 
 Feature columns match the original R scripts:
 
@@ -31,12 +31,16 @@ where:
 - `D` = Daunorubicin
 
 ## `sql/`
-CSV exports aligned with the PostgreSQL schema.
+CSV exports aligned with the PostgreSQL schema and loaded by the setup scripts in `database/schema/`.
 
 - `drugs.csv`
 - `observations.csv`
 - `observation_doses.csv`
 - `model_performance_reported.csv`
+
+These files back the CSV-based PostgreSQL setup:
+- `database/schema/01_load_from_csv_psql.sql`
+- `database/schema/01_load_from_csv_pgadmin_template.sql`
 
 `model_performance_reported.csv` is **not re-fit from scratch** by the generator. It is seeded from the
 reported metrics already used in the SQL / Tableau layer so the repo stays consistent.

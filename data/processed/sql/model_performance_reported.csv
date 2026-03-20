@@ -1,4 +1,4 @@
-model,normalization,test_mse,rank_within_normalization
+model_name,normalization,test_mse,rank_within_normalization
 Quadratic Regression,Feature scaling,0.027247,5
 Ridge Regression,Feature scaling,0.004062,3
 Lasso Regression,Feature scaling,0.003252,1

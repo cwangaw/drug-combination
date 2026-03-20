@@ -135,7 +135,7 @@ def sql_frames(df: pd.DataFrame) -> dict[str, pd.DataFrame]:
         "drugs": DRUGS.copy(),
         "observations": observations,
         "observation_doses": observation_doses,
-        "model_performance_reported": REPORTED_MODEL_PERFORMANCE.copy(),
+        "model_performance_reported": REPORTED_MODEL_PERFORMANCE.rename(columns={"model": "model_name"}).copy(),
     }
 
 
