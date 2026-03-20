@@ -1,0 +1,5 @@
+drug_id,drug_key,drug_name,max_tested_dose
+1,vincristine,Vincristine,50.0
+2,mitoxantrone,Mitoxantrone,40.0
+3,etoposide,Etoposide,100.0
+4,daunorubicin,Daunorubicin,75.0

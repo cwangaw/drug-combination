@@ -1,0 +1,5 @@
+drug_key,drug_name,level,mean_cell_viability,median_cell_viability,min_cell_viability,max_cell_viability,n_observations,best_level_rank
+vincristine,Vincristine,50.0,0.623594,0.615,0.42,0.83,64,1
+etoposide,Etoposide,100.0,0.689062,0.73,0.42,0.88,64,1
+daunorubicin,Daunorubicin,75.0,0.699062,0.71,0.42,0.94,64,1
+mitoxantrone,Mitoxantrone,40.0,0.750312,0.78,0.47,1.01,64,1

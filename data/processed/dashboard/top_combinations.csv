@@ -1,0 +1,257 @@
+experiment_id,vincristine,mitoxantrone,etoposide,daunorubicin,cell_viability,cell_viability_pct,combo_label,viability_rank,efficacy_score,recommended_reason
+240,50.0,10,100.0,75.0,0.42,42.0,V=50.0 | M=10 | E=100.0 | D=75.0,1,0.58,Includes Vincristine + Mitoxantrone
+224,50.0,5,100.0,75.0,0.46,46.0,V=50.0 | M=5 | E=100.0 | D=75.0,2,0.54,Includes Vincristine + Mitoxantrone
+252,50.0,40,25.0,75.0,0.47,47.0,V=50.0 | M=40 | E=25.0 | D=75.0,3,0.53,Includes Vincristine + Mitoxantrone
+256,50.0,40,100.0,75.0,0.47,47.0,V=50.0 | M=40 | E=100.0 | D=75.0,4,0.53,Includes Vincristine + Mitoxantrone
+239,50.0,10,100.0,18.75,0.49,49.0,V=50.0 | M=10 | E=100.0 | D=18.75,5,0.51,Includes Vincristine + Mitoxantrone
+236,50.0,10,25.0,75.0,0.5,50.0,V=50.0 | M=10 | E=25.0 | D=75.0,6,0.5,Includes Vincristine + Mitoxantrone
+237,50.0,10,100.0,0.0,0.5,50.0,V=50.0 | M=10 | E=100.0 | D=0.0,7,0.5,Includes Vincristine + Mitoxantrone
+238,50.0,10,100.0,9.375,0.5,50.0,V=50.0 | M=10 | E=100.0 | D=9.375,8,0.5,Includes Vincristine + Mitoxantrone
+225,50.0,10,0.0,0.0,0.51,51.0,V=50.0 | M=10 | E=0.0 | D=0.0,9,0.49,Includes Vincristine + Mitoxantrone
+248,50.0,40,12.5,75.0,0.51,51.0,V=50.0 | M=40 | E=12.5 | D=75.0,10,0.49,Includes Vincristine + Mitoxantrone
+223,50.0,5,100.0,18.75,0.53,53.0,V=50.0 | M=5 | E=100.0 | D=18.75,11,0.47,Includes Vincristine + Mitoxantrone
+244,50.0,40,0.0,75.0,0.53,53.0,V=50.0 | M=40 | E=0.0 | D=75.0,12,0.47,Includes Vincristine + Mitoxantrone
+254,50.0,40,100.0,9.375,0.53,53.0,V=50.0 | M=40 | E=100.0 | D=9.375,13,0.47,Includes Vincristine + Mitoxantrone
+193,50.0,0,0.0,0.0,0.54,54.0,V=50.0 | M=0 | E=0.0 | D=0.0,14,0.46,Vincristine-based combination
+228,50.0,10,0.0,75.0,0.54,54.0,V=50.0 | M=10 | E=0.0 | D=75.0,15,0.46,Includes Vincristine + Mitoxantrone
+250,50.0,40,25.0,9.375,0.55,55.0,V=50.0 | M=40 | E=25.0 | D=9.375,16,0.45,Includes Vincristine + Mitoxantrone
+253,50.0,40,100.0,0.0,0.55,55.0,V=50.0 | M=40 | E=100.0 | D=0.0,17,0.45,Includes Vincristine + Mitoxantrone
+255,50.0,40,100.0,18.75,0.55,55.0,V=50.0 | M=40 | E=100.0 | D=18.75,18,0.45,Includes Vincristine + Mitoxantrone
+96,6.25,5,100.0,75.0,0.56,56.0,V=6.25 | M=5 | E=100.0 | D=75.0,19,0.44,Includes Vincristine + Mitoxantrone
+160,12.5,5,100.0,75.0,0.56,56.0,V=12.5 | M=5 | E=100.0 | D=75.0,20,0.44,Includes Vincristine + Mitoxantrone
+222,50.0,5,100.0,9.375,0.56,56.0,V=50.0 | M=5 | E=100.0 | D=9.375,21,0.44,Includes Vincristine + Mitoxantrone
+227,50.0,10,0.0,18.75,0.57,57.0,V=50.0 | M=10 | E=0.0 | D=18.75,22,0.43,Includes Vincristine + Mitoxantrone
+235,50.0,10,25.0,18.75,0.57,57.0,V=50.0 | M=10 | E=25.0 | D=18.75,23,0.43,Includes Vincristine + Mitoxantrone
+251,50.0,40,25.0,18.75,0.57,57.0,V=50.0 | M=40 | E=25.0 | D=18.75,24,0.43,Includes Vincristine + Mitoxantrone
+194,50.0,0,0.0,9.375,0.58,58.0,V=50.0 | M=0 | E=0.0 | D=9.375,25,0.42,Vincristine-based combination
+195,50.0,0,0.0,18.75,0.58,58.0,V=50.0 | M=0 | E=0.0 | D=18.75,26,0.42,Vincristine-based combination
+226,50.0,10,0.0,9.375,0.58,58.0,V=50.0 | M=10 | E=0.0 | D=9.375,27,0.42,Includes Vincristine + Mitoxantrone
+232,50.0,10,12.5,75.0,0.58,58.0,V=50.0 | M=10 | E=12.5 | D=75.0,28,0.42,Includes Vincristine + Mitoxantrone
+196,50.0,0,0.0,75.0,0.59,59.0,V=50.0 | M=0 | E=0.0 | D=75.0,29,0.41,Vincristine-based combination
+221,50.0,5,100.0,0.0,0.59,59.0,V=50.0 | M=5 | E=100.0 | D=0.0,30,0.41,Includes Vincristine + Mitoxantrone
+233,50.0,10,25.0,0.0,0.59,59.0,V=50.0 | M=10 | E=25.0 | D=0.0,31,0.41,Includes Vincristine + Mitoxantrone
+241,50.0,40,0.0,0.0,0.59,59.0,V=50.0 | M=40 | E=0.0 | D=0.0,32,0.41,Includes Vincristine + Mitoxantrone
+176,12.5,10,100.0,75.0,0.6,60.0,V=12.5 | M=10 | E=100.0 | D=75.0,33,0.4,Includes Vincristine + Mitoxantrone
+220,50.0,5,25.0,75.0,0.6,60.0,V=50.0 | M=5 | E=25.0 | D=75.0,34,0.4,Includes Vincristine + Mitoxantrone
+242,50.0,40,0.0,9.375,0.61,61.0,V=50.0 | M=40 | E=0.0 | D=9.375,35,0.39,Includes Vincristine + Mitoxantrone
+94,6.25,5,100.0,9.375,0.62,62.0,V=6.25 | M=5 | E=100.0 | D=9.375,36,0.38,Includes Vincristine + Mitoxantrone
+95,6.25,5,100.0,18.75,0.62,62.0,V=6.25 | M=5 | E=100.0 | D=18.75,37,0.38,Includes Vincristine + Mitoxantrone
+200,50.0,0,12.5,75.0,0.62,62.0,V=50.0 | M=0 | E=12.5 | D=75.0,38,0.38,Vincristine-based combination
+249,50.0,40,25.0,0.0,0.62,62.0,V=50.0 | M=40 | E=25.0 | D=0.0,39,0.38,Includes Vincristine + Mitoxantrone
+112,6.25,10,100.0,75.0,0.63,63.0,V=6.25 | M=10 | E=100.0 | D=75.0,40,0.37,Includes Vincristine + Mitoxantrone
+144,12.5,0,100.0,75.0,0.63,63.0,V=12.5 | M=0 | E=100.0 | D=75.0,41,0.37,Vincristine-based combination
+156,12.5,5,25.0,75.0,0.63,63.0,V=12.5 | M=5 | E=25.0 | D=75.0,42,0.37,Includes Vincristine + Mitoxantrone
+234,50.0,10,25.0,9.375,0.63,63.0,V=50.0 | M=10 | E=25.0 | D=9.375,43,0.37,Includes Vincristine + Mitoxantrone
+208,50.0,0,100.0,75.0,0.64,64.0,V=50.0 | M=0 | E=100.0 | D=75.0,44,0.36,Vincristine-based combination
+219,50.0,5,25.0,18.75,0.64,64.0,V=50.0 | M=5 | E=25.0 | D=18.75,45,0.36,Includes Vincristine + Mitoxantrone
+245,50.0,40,12.5,0.0,0.64,64.0,V=50.0 | M=40 | E=12.5 | D=0.0,46,0.36,Includes Vincristine + Mitoxantrone
+142,12.5,0,100.0,9.375,0.65,65.0,V=12.5 | M=0 | E=100.0 | D=9.375,47,0.35,Vincristine-based combination
+168,12.5,10,12.5,75.0,0.65,65.0,V=12.5 | M=10 | E=12.5 | D=75.0,48,0.35,Includes Vincristine + Mitoxantrone
+192,12.5,40,100.0,75.0,0.65,65.0,V=12.5 | M=40 | E=100.0 | D=75.0,49,0.35,Includes Vincristine + Mitoxantrone
+204,50.0,0,25.0,75.0,0.65,65.0,V=50.0 | M=0 | E=25.0 | D=75.0,50,0.35,Vincristine-based combination
+231,50.0,10,12.5,18.75,0.65,65.0,V=50.0 | M=10 | E=12.5 | D=18.75,51,0.35,Includes Vincristine + Mitoxantrone
+92,6.25,5,25.0,75.0,0.66,66.0,V=6.25 | M=5 | E=25.0 | D=75.0,52,0.34,Includes Vincristine + Mitoxantrone
+93,6.25,5,100.0,0.0,0.66,66.0,V=6.25 | M=5 | E=100.0 | D=0.0,53,0.34,Includes Vincristine + Mitoxantrone
+140,12.5,0,25.0,75.0,0.66,66.0,V=12.5 | M=0 | E=25.0 | D=75.0,54,0.34,Vincristine-based combination
+141,12.5,0,100.0,0.0,0.66,66.0,V=12.5 | M=0 | E=100.0 | D=0.0,55,0.34,Vincristine-based combination
+229,50.0,10,12.5,0.0,0.66,66.0,V=50.0 | M=10 | E=12.5 | D=0.0,56,0.34,Includes Vincristine + Mitoxantrone
+243,50.0,40,0.0,18.75,0.66,66.0,V=50.0 | M=40 | E=0.0 | D=18.75,57,0.34,Includes Vincristine + Mitoxantrone
+247,50.0,40,12.5,18.75,0.66,66.0,V=50.0 | M=40 | E=12.5 | D=18.75,58,0.34,Includes Vincristine + Mitoxantrone
+172,12.5,10,25.0,75.0,0.67,67.0,V=12.5 | M=10 | E=25.0 | D=75.0,59,0.33,Includes Vincristine + Mitoxantrone
+212,50.0,5,0.0,75.0,0.67,67.0,V=50.0 | M=5 | E=0.0 | D=75.0,60,0.33,Includes Vincristine + Mitoxantrone
+216,50.0,5,12.5,75.0,0.67,67.0,V=50.0 | M=5 | E=12.5 | D=75.0,61,0.33,Includes Vincristine + Mitoxantrone
+108,6.25,10,25.0,75.0,0.68,68.0,V=6.25 | M=10 | E=25.0 | D=75.0,62,0.32,Includes Vincristine + Mitoxantrone
+128,6.25,40,100.0,75.0,0.68,68.0,V=6.25 | M=40 | E=100.0 | D=75.0,63,0.32,Includes Vincristine + Mitoxantrone
+184,12.5,40,12.5,75.0,0.68,68.0,V=12.5 | M=40 | E=12.5 | D=75.0,64,0.32,Includes Vincristine + Mitoxantrone
+207,50.0,0,100.0,18.75,0.68,68.0,V=50.0 | M=0 | E=100.0 | D=18.75,65,0.32,Vincristine-based combination
+230,50.0,10,12.5,9.375,0.68,68.0,V=50.0 | M=10 | E=12.5 | D=9.375,66,0.32,Includes Vincristine + Mitoxantrone
+143,12.5,0,100.0,18.75,0.69,69.0,V=12.5 | M=0 | E=100.0 | D=18.75,67,0.31,Vincristine-based combination
+148,12.5,5,0.0,75.0,0.69,69.0,V=12.5 | M=5 | E=0.0 | D=75.0,68,0.31,Includes Vincristine + Mitoxantrone
+191,12.5,40,100.0,18.75,0.69,69.0,V=12.5 | M=40 | E=100.0 | D=18.75,69,0.31,Includes Vincristine + Mitoxantrone
+210,50.0,5,0.0,9.375,0.69,69.0,V=50.0 | M=5 | E=0.0 | D=9.375,70,0.31,Includes Vincristine + Mitoxantrone
+80,6.25,0,100.0,75.0,0.7,70.0,V=6.25 | M=0 | E=100.0 | D=75.0,71,0.3,Vincristine-based combination
+246,50.0,40,12.5,9.375,0.7,70.0,V=50.0 | M=40 | E=12.5 | D=9.375,72,0.3,Includes Vincristine + Mitoxantrone
+89,6.25,5,25.0,0.0,0.71,71.0,V=6.25 | M=5 | E=25.0 | D=0.0,73,0.29,Includes Vincristine + Mitoxantrone
+190,12.5,40,100.0,9.375,0.71,71.0,V=12.5 | M=40 | E=100.0 | D=9.375,74,0.29,Includes Vincristine + Mitoxantrone
+188,12.5,40,25.0,75.0,0.72,72.0,V=12.5 | M=40 | E=25.0 | D=75.0,75,0.28,Includes Vincristine + Mitoxantrone
+189,12.5,40,100.0,0.0,0.72,72.0,V=12.5 | M=40 | E=100.0 | D=0.0,76,0.28,Includes Vincristine + Mitoxantrone
+64,0.0,40,100.0,75.0,0.73,73.0,V=0.0 | M=40 | E=100.0 | D=75.0,77,0.27,Mitoxantrone-based combination
+100,6.25,10,0.0,75.0,0.73,73.0,V=6.25 | M=10 | E=0.0 | D=75.0,78,0.27,Includes Vincristine + Mitoxantrone
+109,6.25,10,100.0,0.0,0.73,73.0,V=6.25 | M=10 | E=100.0 | D=0.0,79,0.27,Includes Vincristine + Mitoxantrone
+111,6.25,10,100.0,18.75,0.73,73.0,V=6.25 | M=10 | E=100.0 | D=18.75,80,0.27,Includes Vincristine + Mitoxantrone
+152,12.5,5,12.5,75.0,0.73,73.0,V=12.5 | M=5 | E=12.5 | D=75.0,81,0.27,Includes Vincristine + Mitoxantrone
+173,12.5,10,100.0,0.0,0.73,73.0,V=12.5 | M=10 | E=100.0 | D=0.0,82,0.27,Includes Vincristine + Mitoxantrone
+174,12.5,10,100.0,9.375,0.73,73.0,V=12.5 | M=10 | E=100.0 | D=9.375,83,0.27,Includes Vincristine + Mitoxantrone
+175,12.5,10,100.0,18.75,0.73,73.0,V=12.5 | M=10 | E=100.0 | D=18.75,84,0.27,Includes Vincristine + Mitoxantrone
+180,12.5,40,0.0,75.0,0.73,73.0,V=12.5 | M=40 | E=0.0 | D=75.0,85,0.27,Includes Vincristine + Mitoxantrone
+206,50.0,0,100.0,9.375,0.73,73.0,V=50.0 | M=0 | E=100.0 | D=9.375,86,0.27,Vincristine-based combination
+120,6.25,40,12.5,75.0,0.74,74.0,V=6.25 | M=40 | E=12.5 | D=75.0,87,0.26,Includes Vincristine + Mitoxantrone
+127,6.25,40,100.0,18.75,0.74,74.0,V=6.25 | M=40 | E=100.0 | D=18.75,88,0.26,Includes Vincristine + Mitoxantrone
+157,12.5,5,100.0,0.0,0.74,74.0,V=12.5 | M=5 | E=100.0 | D=0.0,89,0.26,Includes Vincristine + Mitoxantrone
+198,50.0,0,12.5,9.375,0.74,74.0,V=50.0 | M=0 | E=12.5 | D=9.375,90,0.26,Vincristine-based combination
+201,50.0,0,25.0,0.0,0.74,74.0,V=50.0 | M=0 | E=25.0 | D=0.0,91,0.26,Vincristine-based combination
+203,50.0,0,25.0,18.75,0.74,74.0,V=50.0 | M=0 | E=25.0 | D=18.75,92,0.26,Vincristine-based combination
+211,50.0,5,0.0,18.75,0.74,74.0,V=50.0 | M=5 | E=0.0 | D=18.75,93,0.26,Includes Vincristine + Mitoxantrone
+32,0.0,5,100.0,75.0,0.75,75.0,V=0.0 | M=5 | E=100.0 | D=75.0,94,0.25,Mitoxantrone-based combination
+79,6.25,0,100.0,18.75,0.75,75.0,V=6.25 | M=0 | E=100.0 | D=18.75,95,0.25,Vincristine-based combination
+91,6.25,5,25.0,18.75,0.75,75.0,V=6.25 | M=5 | E=25.0 | D=18.75,96,0.25,Includes Vincristine + Mitoxantrone
+110,6.25,10,100.0,9.375,0.75,75.0,V=6.25 | M=10 | E=100.0 | D=9.375,97,0.25,Includes Vincristine + Mitoxantrone
+132,12.5,0,0.0,75.0,0.75,75.0,V=12.5 | M=0 | E=0.0 | D=75.0,98,0.25,Vincristine-based combination
+158,12.5,5,100.0,9.375,0.75,75.0,V=12.5 | M=5 | E=100.0 | D=9.375,99,0.25,Includes Vincristine + Mitoxantrone
+202,50.0,0,25.0,9.375,0.75,75.0,V=50.0 | M=0 | E=25.0 | D=9.375,100,0.25,Vincristine-based combination
+205,50.0,0,100.0,0.0,0.75,75.0,V=50.0 | M=0 | E=100.0 | D=0.0,101,0.25,Vincristine-based combination
+209,50.0,5,0.0,0.0,0.75,75.0,V=50.0 | M=5 | E=0.0 | D=0.0,102,0.25,Includes Vincristine + Mitoxantrone
+218,50.0,5,25.0,9.375,0.75,75.0,V=50.0 | M=5 | E=25.0 | D=9.375,103,0.25,Includes Vincristine + Mitoxantrone
+48,0.0,10,100.0,75.0,0.76,76.0,V=0.0 | M=10 | E=100.0 | D=75.0,104,0.24,Mitoxantrone-based combination
+75,6.25,0,25.0,18.75,0.76,76.0,V=6.25 | M=0 | E=25.0 | D=18.75,105,0.24,Vincristine-based combination
+123,6.25,40,25.0,18.75,0.76,76.0,V=6.25 | M=40 | E=25.0 | D=18.75,106,0.24,Includes Vincristine + Mitoxantrone
+197,50.0,0,12.5,0.0,0.76,76.0,V=50.0 | M=0 | E=12.5 | D=0.0,107,0.24,Vincristine-based combination
+16,0.0,0,100.0,75.0,0.77,77.0,V=0.0 | M=0 | E=100.0 | D=75.0,108,0.23,Non-VM combination
+60,0.0,40,25.0,75.0,0.77,77.0,V=0.0 | M=40 | E=25.0 | D=75.0,109,0.23,Mitoxantrone-based combination
+63,0.0,40,100.0,18.75,0.77,77.0,V=0.0 | M=40 | E=100.0 | D=18.75,110,0.23,Mitoxantrone-based combination
+78,6.25,0,100.0,9.375,0.77,77.0,V=6.25 | M=0 | E=100.0 | D=9.375,111,0.23,Vincristine-based combination
+101,6.25,10,12.5,0.0,0.77,77.0,V=6.25 | M=10 | E=12.5 | D=0.0,112,0.23,Includes Vincristine + Mitoxantrone
+104,6.25,10,12.5,75.0,0.77,77.0,V=6.25 | M=10 | E=12.5 | D=75.0,113,0.23,Includes Vincristine + Mitoxantrone
+181,12.5,40,12.5,0.0,0.77,77.0,V=12.5 | M=40 | E=12.5 | D=0.0,114,0.23,Includes Vincristine + Mitoxantrone
+215,50.0,5,12.5,18.75,0.77,77.0,V=50.0 | M=5 | E=12.5 | D=18.75,115,0.23,Includes Vincristine + Mitoxantrone
+36,0.0,10,0.0,75.0,0.78,78.0,V=0.0 | M=10 | E=0.0 | D=75.0,116,0.22,Mitoxantrone-based combination
+76,6.25,0,25.0,75.0,0.78,78.0,V=6.25 | M=0 | E=25.0 | D=75.0,117,0.22,Vincristine-based combination
+116,6.25,40,0.0,75.0,0.78,78.0,V=6.25 | M=40 | E=0.0 | D=75.0,118,0.22,Includes Vincristine + Mitoxantrone
+126,6.25,40,100.0,9.375,0.78,78.0,V=6.25 | M=40 | E=100.0 | D=9.375,119,0.22,Includes Vincristine + Mitoxantrone
+136,12.5,0,12.5,75.0,0.78,78.0,V=12.5 | M=0 | E=12.5 | D=75.0,120,0.22,Vincristine-based combination
+164,12.5,10,0.0,75.0,0.78,78.0,V=12.5 | M=10 | E=0.0 | D=75.0,121,0.22,Includes Vincristine + Mitoxantrone
+187,12.5,40,25.0,18.75,0.78,78.0,V=12.5 | M=40 | E=25.0 | D=18.75,122,0.22,Includes Vincristine + Mitoxantrone
+15,0.0,0,100.0,18.75,0.79,79.0,V=0.0 | M=0 | E=100.0 | D=18.75,123,0.21,Non-VM combination
+56,0.0,40,12.5,75.0,0.79,79.0,V=0.0 | M=40 | E=12.5 | D=75.0,124,0.21,Mitoxantrone-based combination
+72,6.25,0,12.5,75.0,0.79,79.0,V=6.25 | M=0 | E=12.5 | D=75.0,125,0.21,Vincristine-based combination
+97,6.25,10,0.0,0.0,0.79,79.0,V=6.25 | M=10 | E=0.0 | D=0.0,126,0.21,Includes Vincristine + Mitoxantrone
+124,6.25,40,25.0,75.0,0.79,79.0,V=6.25 | M=40 | E=25.0 | D=75.0,127,0.21,Includes Vincristine + Mitoxantrone
+154,12.5,5,25.0,9.375,0.79,79.0,V=12.5 | M=5 | E=25.0 | D=9.375,128,0.21,Includes Vincristine + Mitoxantrone
+159,12.5,5,100.0,18.75,0.79,79.0,V=12.5 | M=5 | E=100.0 | D=18.75,129,0.21,Includes Vincristine + Mitoxantrone
+171,12.5,10,25.0,18.75,0.79,79.0,V=12.5 | M=10 | E=25.0 | D=18.75,130,0.21,Includes Vincristine + Mitoxantrone
+179,12.5,40,0.0,18.75,0.79,79.0,V=12.5 | M=40 | E=0.0 | D=18.75,131,0.21,Includes Vincristine + Mitoxantrone
+185,12.5,40,25.0,0.0,0.79,79.0,V=12.5 | M=40 | E=25.0 | D=0.0,132,0.21,Includes Vincristine + Mitoxantrone
+199,50.0,0,12.5,18.75,0.79,79.0,V=50.0 | M=0 | E=12.5 | D=18.75,133,0.21,Vincristine-based combination
+213,50.0,5,12.5,0.0,0.79,79.0,V=50.0 | M=5 | E=12.5 | D=0.0,134,0.21,Includes Vincristine + Mitoxantrone
+13,0.0,0,100.0,0.0,0.8,80.0,V=0.0 | M=0 | E=100.0 | D=0.0,135,0.2,Non-VM combination
+14,0.0,0,100.0,9.375,0.8,80.0,V=0.0 | M=0 | E=100.0 | D=9.375,136,0.2,Non-VM combination
+44,0.0,10,25.0,75.0,0.8,80.0,V=0.0 | M=10 | E=25.0 | D=75.0,137,0.2,Mitoxantrone-based combination
+46,0.0,10,100.0,9.375,0.8,80.0,V=0.0 | M=10 | E=100.0 | D=9.375,138,0.2,Mitoxantrone-based combination
+71,6.25,0,12.5,18.75,0.8,80.0,V=6.25 | M=0 | E=12.5 | D=18.75,139,0.2,Vincristine-based combination
+88,6.25,5,12.5,75.0,0.8,80.0,V=6.25 | M=5 | E=12.5 | D=75.0,140,0.2,Includes Vincristine + Mitoxantrone
+119,6.25,40,12.5,18.75,0.8,80.0,V=6.25 | M=40 | E=12.5 | D=18.75,141,0.2,Includes Vincristine + Mitoxantrone
+155,12.5,5,25.0,18.75,0.8,80.0,V=12.5 | M=5 | E=25.0 | D=18.75,142,0.2,Includes Vincristine + Mitoxantrone
+178,12.5,40,0.0,9.375,0.8,80.0,V=12.5 | M=40 | E=0.0 | D=9.375,143,0.2,Includes Vincristine + Mitoxantrone
+27,0.0,5,25.0,18.75,0.81,81.0,V=0.0 | M=5 | E=25.0 | D=18.75,144,0.19,Mitoxantrone-based combination
+31,0.0,5,100.0,18.75,0.81,81.0,V=0.0 | M=5 | E=100.0 | D=18.75,145,0.19,Mitoxantrone-based combination
+59,0.0,40,25.0,18.75,0.81,81.0,V=0.0 | M=40 | E=25.0 | D=18.75,146,0.19,Mitoxantrone-based combination
+77,6.25,0,100.0,0.0,0.81,81.0,V=6.25 | M=0 | E=100.0 | D=0.0,147,0.19,Vincristine-based combination
+125,6.25,40,100.0,0.0,0.81,81.0,V=6.25 | M=40 | E=100.0 | D=0.0,148,0.19,Includes Vincristine + Mitoxantrone
+131,12.5,0,0.0,18.75,0.81,81.0,V=12.5 | M=0 | E=0.0 | D=18.75,149,0.19,Vincristine-based combination
+146,12.5,5,0.0,9.375,0.81,81.0,V=12.5 | M=5 | E=0.0 | D=9.375,150,0.19,Includes Vincristine + Mitoxantrone
+169,12.5,10,25.0,0.0,0.81,81.0,V=12.5 | M=10 | E=25.0 | D=0.0,151,0.19,Includes Vincristine + Mitoxantrone
+214,50.0,5,12.5,9.375,0.81,81.0,V=50.0 | M=5 | E=12.5 | D=9.375,152,0.19,Includes Vincristine + Mitoxantrone
+28,0.0,5,25.0,75.0,0.82,82.0,V=0.0 | M=5 | E=25.0 | D=75.0,153,0.18,Mitoxantrone-based combination
+29,0.0,5,100.0,0.0,0.82,82.0,V=0.0 | M=5 | E=100.0 | D=0.0,154,0.18,Mitoxantrone-based combination
+43,0.0,10,25.0,18.75,0.82,82.0,V=0.0 | M=10 | E=25.0 | D=18.75,155,0.18,Mitoxantrone-based combination
+45,0.0,10,100.0,0.0,0.82,82.0,V=0.0 | M=10 | E=100.0 | D=0.0,156,0.18,Mitoxantrone-based combination
+55,0.0,40,12.5,18.75,0.82,82.0,V=0.0 | M=40 | E=12.5 | D=18.75,157,0.18,Mitoxantrone-based combination
+62,0.0,40,100.0,9.375,0.82,82.0,V=0.0 | M=40 | E=100.0 | D=9.375,158,0.18,Mitoxantrone-based combination
+90,6.25,5,25.0,9.375,0.82,82.0,V=6.25 | M=5 | E=25.0 | D=9.375,159,0.18,Includes Vincristine + Mitoxantrone
+182,12.5,40,12.5,9.375,0.82,82.0,V=12.5 | M=40 | E=12.5 | D=9.375,160,0.18,Includes Vincristine + Mitoxantrone
+5,0.0,0,12.5,0.0,0.83,83.0,V=0.0 | M=0 | E=12.5 | D=0.0,161,0.17,Non-VM combination
+30,0.0,5,100.0,9.375,0.83,83.0,V=0.0 | M=5 | E=100.0 | D=9.375,162,0.17,Mitoxantrone-based combination
+54,0.0,40,12.5,9.375,0.83,83.0,V=0.0 | M=40 | E=12.5 | D=9.375,163,0.17,Mitoxantrone-based combination
+61,0.0,40,100.0,0.0,0.83,83.0,V=0.0 | M=40 | E=100.0 | D=0.0,164,0.17,Mitoxantrone-based combination
+121,6.25,40,25.0,0.0,0.83,83.0,V=6.25 | M=40 | E=25.0 | D=0.0,165,0.17,Includes Vincristine + Mitoxantrone
+129,12.5,0,0.0,0.0,0.83,83.0,V=12.5 | M=0 | E=0.0 | D=0.0,166,0.17,Vincristine-based combination
+137,12.5,0,25.0,0.0,0.83,83.0,V=12.5 | M=0 | E=25.0 | D=0.0,167,0.17,Vincristine-based combination
+149,12.5,5,12.5,0.0,0.83,83.0,V=12.5 | M=5 | E=12.5 | D=0.0,168,0.17,Includes Vincristine + Mitoxantrone
+153,12.5,5,25.0,0.0,0.83,83.0,V=12.5 | M=5 | E=25.0 | D=0.0,169,0.17,Includes Vincristine + Mitoxantrone
+170,12.5,10,25.0,9.375,0.83,83.0,V=12.5 | M=10 | E=25.0 | D=9.375,170,0.17,Includes Vincristine + Mitoxantrone
+217,50.0,5,25.0,0.0,0.83,83.0,V=50.0 | M=5 | E=25.0 | D=0.0,171,0.17,Includes Vincristine + Mitoxantrone
+6,0.0,0,12.5,9.375,0.84,84.0,V=0.0 | M=0 | E=12.5 | D=9.375,172,0.16,Non-VM combination
+19,0.0,5,0.0,18.75,0.84,84.0,V=0.0 | M=5 | E=0.0 | D=18.75,173,0.16,Mitoxantrone-based combination
+24,0.0,5,12.5,75.0,0.84,84.0,V=0.0 | M=5 | E=12.5 | D=75.0,174,0.16,Mitoxantrone-based combination
+52,0.0,40,0.0,75.0,0.84,84.0,V=0.0 | M=40 | E=0.0 | D=75.0,175,0.16,Mitoxantrone-based combination
+98,6.25,10,0.0,9.375,0.84,84.0,V=6.25 | M=10 | E=0.0 | D=9.375,176,0.16,Includes Vincristine + Mitoxantrone
+106,6.25,10,25.0,9.375,0.84,84.0,V=6.25 | M=10 | E=25.0 | D=9.375,177,0.16,Includes Vincristine + Mitoxantrone
+107,6.25,10,25.0,18.75,0.84,84.0,V=6.25 | M=10 | E=25.0 | D=18.75,178,0.16,Includes Vincristine + Mitoxantrone
+115,6.25,40,0.0,18.75,0.84,84.0,V=6.25 | M=40 | E=0.0 | D=18.75,179,0.16,Includes Vincristine + Mitoxantrone
+130,12.5,0,0.0,9.375,0.84,84.0,V=12.5 | M=0 | E=0.0 | D=9.375,180,0.16,Vincristine-based combination
+138,12.5,0,25.0,9.375,0.84,84.0,V=12.5 | M=0 | E=25.0 | D=9.375,181,0.16,Vincristine-based combination
+139,12.5,0,25.0,18.75,0.84,84.0,V=12.5 | M=0 | E=25.0 | D=18.75,182,0.16,Vincristine-based combination
+145,12.5,5,0.0,0.0,0.84,84.0,V=12.5 | M=5 | E=0.0 | D=0.0,183,0.16,Includes Vincristine + Mitoxantrone
+167,12.5,10,12.5,18.75,0.84,84.0,V=12.5 | M=10 | E=12.5 | D=18.75,184,0.16,Includes Vincristine + Mitoxantrone
+58,0.0,40,25.0,9.375,0.85,85.0,V=0.0 | M=40 | E=25.0 | D=9.375,185,0.15,Mitoxantrone-based combination
+84,6.25,5,0.0,75.0,0.85,85.0,V=6.25 | M=5 | E=0.0 | D=75.0,186,0.15,Includes Vincristine + Mitoxantrone
+118,6.25,40,12.5,9.375,0.85,85.0,V=6.25 | M=40 | E=12.5 | D=9.375,187,0.15,Includes Vincristine + Mitoxantrone
+135,12.5,0,12.5,18.75,0.85,85.0,V=12.5 | M=0 | E=12.5 | D=18.75,188,0.15,Vincristine-based combination
+8,0.0,0,12.5,75.0,0.86,86.0,V=0.0 | M=0 | E=12.5 | D=75.0,189,0.14,Non-VM combination
+20,0.0,5,0.0,75.0,0.86,86.0,V=0.0 | M=5 | E=0.0 | D=75.0,190,0.14,Mitoxantrone-based combination
+26,0.0,5,25.0,9.375,0.86,86.0,V=0.0 | M=5 | E=25.0 | D=9.375,191,0.14,Mitoxantrone-based combination
+51,0.0,40,0.0,18.75,0.86,86.0,V=0.0 | M=40 | E=0.0 | D=18.75,192,0.14,Mitoxantrone-based combination
+57,0.0,40,25.0,0.0,0.86,86.0,V=0.0 | M=40 | E=25.0 | D=0.0,193,0.14,Mitoxantrone-based combination
+73,6.25,0,25.0,0.0,0.86,86.0,V=6.25 | M=0 | E=25.0 | D=0.0,194,0.14,Vincristine-based combination
+99,6.25,10,0.0,18.75,0.86,86.0,V=6.25 | M=10 | E=0.0 | D=18.75,195,0.14,Includes Vincristine + Mitoxantrone
+105,6.25,10,25.0,0.0,0.86,86.0,V=6.25 | M=10 | E=25.0 | D=0.0,196,0.14,Includes Vincristine + Mitoxantrone
+177,12.5,40,0.0,0.0,0.86,86.0,V=12.5 | M=40 | E=0.0 | D=0.0,197,0.14,Includes Vincristine + Mitoxantrone
+183,12.5,40,12.5,18.75,0.86,86.0,V=12.5 | M=40 | E=12.5 | D=18.75,198,0.14,Includes Vincristine + Mitoxantrone
+33,0.0,10,0.0,0.0,0.87,87.0,V=0.0 | M=10 | E=0.0 | D=0.0,199,0.13,Mitoxantrone-based combination
+65,6.25,0,0.0,0.0,0.87,87.0,V=6.25 | M=0 | E=0.0 | D=0.0,200,0.13,Vincristine-based combination
+68,6.25,0,0.0,75.0,0.87,87.0,V=6.25 | M=0 | E=0.0 | D=75.0,201,0.13,Vincristine-based combination
+74,6.25,0,25.0,9.375,0.87,87.0,V=6.25 | M=0 | E=25.0 | D=9.375,202,0.13,Vincristine-based combination
+103,6.25,10,12.5,18.75,0.87,87.0,V=6.25 | M=10 | E=12.5 | D=18.75,203,0.13,Includes Vincristine + Mitoxantrone
+117,6.25,40,12.5,0.0,0.87,87.0,V=6.25 | M=40 | E=12.5 | D=0.0,204,0.13,Includes Vincristine + Mitoxantrone
+133,12.5,0,12.5,0.0,0.87,87.0,V=12.5 | M=0 | E=12.5 | D=0.0,205,0.13,Vincristine-based combination
+18,0.0,5,0.0,9.375,0.88,88.0,V=0.0 | M=5 | E=0.0 | D=9.375,206,0.12,Mitoxantrone-based combination
+23,0.0,5,12.5,18.75,0.88,88.0,V=0.0 | M=5 | E=12.5 | D=18.75,207,0.12,Mitoxantrone-based combination
+25,0.0,5,25.0,0.0,0.88,88.0,V=0.0 | M=5 | E=25.0 | D=0.0,208,0.12,Mitoxantrone-based combination
+39,0.0,10,12.5,18.75,0.88,88.0,V=0.0 | M=10 | E=12.5 | D=18.75,209,0.12,Mitoxantrone-based combination
+47,0.0,10,100.0,18.75,0.88,88.0,V=0.0 | M=10 | E=100.0 | D=18.75,210,0.12,Mitoxantrone-based combination
+102,6.25,10,12.5,9.375,0.88,88.0,V=6.25 | M=10 | E=12.5 | D=9.375,211,0.12,Includes Vincristine + Mitoxantrone
+150,12.5,5,12.5,9.375,0.88,88.0,V=12.5 | M=5 | E=12.5 | D=9.375,212,0.12,Includes Vincristine + Mitoxantrone
+7,0.0,0,12.5,18.75,0.89,89.0,V=0.0 | M=0 | E=12.5 | D=18.75,213,0.11,Non-VM combination
+12,0.0,0,25.0,75.0,0.89,89.0,V=0.0 | M=0 | E=25.0 | D=75.0,214,0.11,Non-VM combination
+21,0.0,5,12.5,0.0,0.89,89.0,V=0.0 | M=5 | E=12.5 | D=0.0,215,0.11,Mitoxantrone-based combination
+38,0.0,10,12.5,9.375,0.89,89.0,V=0.0 | M=10 | E=12.5 | D=9.375,216,0.11,Mitoxantrone-based combination
+67,6.25,0,0.0,18.75,0.89,89.0,V=6.25 | M=0 | E=0.0 | D=18.75,217,0.11,Vincristine-based combination
+122,6.25,40,25.0,9.375,0.89,89.0,V=6.25 | M=40 | E=25.0 | D=9.375,218,0.11,Includes Vincristine + Mitoxantrone
+163,12.5,10,0.0,18.75,0.89,89.0,V=12.5 | M=10 | E=0.0 | D=18.75,219,0.11,Includes Vincristine + Mitoxantrone
+165,12.5,10,12.5,0.0,0.89,89.0,V=12.5 | M=10 | E=12.5 | D=0.0,220,0.11,Includes Vincristine + Mitoxantrone
+166,12.5,10,12.5,9.375,0.89,89.0,V=12.5 | M=10 | E=12.5 | D=9.375,221,0.11,Includes Vincristine + Mitoxantrone
+2,0.0,0,0.0,9.375,0.9,90.0,V=0.0 | M=0 | E=0.0 | D=9.375,222,0.1,Non-VM combination
+4,0.0,0,0.0,75.0,0.9,90.0,V=0.0 | M=0 | E=0.0 | D=75.0,223,0.1,Non-VM combination
+22,0.0,5,12.5,9.375,0.9,90.0,V=0.0 | M=5 | E=12.5 | D=9.375,224,0.1,Mitoxantrone-based combination
+34,0.0,10,0.0,9.375,0.9,90.0,V=0.0 | M=10 | E=0.0 | D=9.375,225,0.1,Mitoxantrone-based combination
+35,0.0,10,0.0,18.75,0.9,90.0,V=0.0 | M=10 | E=0.0 | D=18.75,226,0.1,Mitoxantrone-based combination
+37,0.0,10,12.5,0.0,0.9,90.0,V=0.0 | M=10 | E=12.5 | D=0.0,227,0.1,Mitoxantrone-based combination
+147,12.5,5,0.0,18.75,0.9,90.0,V=12.5 | M=5 | E=0.0 | D=18.75,228,0.1,Includes Vincristine + Mitoxantrone
+9,0.0,0,25.0,0.0,0.91,91.0,V=0.0 | M=0 | E=25.0 | D=0.0,229,0.09,Non-VM combination
+11,0.0,0,25.0,18.75,0.91,91.0,V=0.0 | M=0 | E=25.0 | D=18.75,230,0.09,Non-VM combination
+17,0.0,5,0.0,0.0,0.91,91.0,V=0.0 | M=5 | E=0.0 | D=0.0,231,0.09,Mitoxantrone-based combination
+69,6.25,0,12.5,0.0,0.91,91.0,V=6.25 | M=0 | E=12.5 | D=0.0,232,0.09,Vincristine-based combination
+70,6.25,0,12.5,9.375,0.91,91.0,V=6.25 | M=0 | E=12.5 | D=9.375,233,0.09,Vincristine-based combination
+87,6.25,5,12.5,18.75,0.91,91.0,V=6.25 | M=5 | E=12.5 | D=18.75,234,0.09,Includes Vincristine + Mitoxantrone
+134,12.5,0,12.5,9.375,0.91,91.0,V=12.5 | M=0 | E=12.5 | D=9.375,235,0.09,Vincristine-based combination
+151,12.5,5,12.5,18.75,0.91,91.0,V=12.5 | M=5 | E=12.5 | D=18.75,236,0.09,Includes Vincristine + Mitoxantrone
+162,12.5,10,0.0,9.375,0.91,91.0,V=12.5 | M=10 | E=0.0 | D=9.375,237,0.09,Includes Vincristine + Mitoxantrone
+41,0.0,10,25.0,0.0,0.92,92.0,V=0.0 | M=10 | E=25.0 | D=0.0,238,0.08,Mitoxantrone-based combination
+50,0.0,40,0.0,9.375,0.92,92.0,V=0.0 | M=40 | E=0.0 | D=9.375,239,0.08,Mitoxantrone-based combination
+66,6.25,0,0.0,9.375,0.92,92.0,V=6.25 | M=0 | E=0.0 | D=9.375,240,0.08,Vincristine-based combination
+83,6.25,5,0.0,18.75,0.92,92.0,V=6.25 | M=5 | E=0.0 | D=18.75,241,0.08,Includes Vincristine + Mitoxantrone
+114,6.25,40,0.0,9.375,0.92,92.0,V=6.25 | M=40 | E=0.0 | D=9.375,242,0.08,Includes Vincristine + Mitoxantrone
+3,0.0,0,0.0,18.75,0.93,93.0,V=0.0 | M=0 | E=0.0 | D=18.75,243,0.07,Non-VM combination
+42,0.0,10,25.0,9.375,0.93,93.0,V=0.0 | M=10 | E=25.0 | D=9.375,244,0.07,Mitoxantrone-based combination
+49,0.0,40,0.0,0.0,0.93,93.0,V=0.0 | M=40 | E=0.0 | D=0.0,245,0.07,Mitoxantrone-based combination
+85,6.25,5,12.5,0.0,0.93,93.0,V=6.25 | M=5 | E=12.5 | D=0.0,246,0.07,Includes Vincristine + Mitoxantrone
+86,6.25,5,12.5,9.375,0.93,93.0,V=6.25 | M=5 | E=12.5 | D=9.375,247,0.07,Includes Vincristine + Mitoxantrone
+40,0.0,10,12.5,75.0,0.94,94.0,V=0.0 | M=10 | E=12.5 | D=75.0,248,0.06,Mitoxantrone-based combination
+10,0.0,0,25.0,9.375,0.96,96.0,V=0.0 | M=0 | E=25.0 | D=9.375,249,0.04,Non-VM combination
+113,6.25,40,0.0,0.0,0.96,96.0,V=6.25 | M=40 | E=0.0 | D=0.0,250,0.04,Includes Vincristine + Mitoxantrone
+186,12.5,40,25.0,9.375,0.96,96.0,V=12.5 | M=40 | E=25.0 | D=9.375,251,0.04,Includes Vincristine + Mitoxantrone
+81,6.25,5,0.0,0.0,0.97,97.0,V=6.25 | M=5 | E=0.0 | D=0.0,252,0.03,Includes Vincristine + Mitoxantrone
+161,12.5,10,0.0,0.0,0.97,97.0,V=12.5 | M=10 | E=0.0 | D=0.0,253,0.03,Includes Vincristine + Mitoxantrone
+82,6.25,5,0.0,9.375,0.98,98.0,V=6.25 | M=5 | E=0.0 | D=9.375,254,0.02,Includes Vincristine + Mitoxantrone
+1,0.0,0,0.0,0.0,1.0,100.0,V=0.0 | M=0 | E=0.0 | D=0.0,255,0.0,Non-VM combination
+53,0.0,40,12.5,0.0,1.01,101.0,V=0.0 | M=40 | E=12.5 | D=0.0,256,-0.01,Mitoxantrone-based combination

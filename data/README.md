@@ -12,3 +12,14 @@
 - `cell viability`
 
 The modeling scripts engineer 10 additional quadratic/interaction terms from the four drug dosage columns.
+
+
+## Processed data
+
+Run (with Python 3, `pandas`, and `numpy` available):
+
+```bash
+python src/data_processing/generate_processed_data.py
+```
+
+to create derived modeling, SQL-load, and dashboard-source CSVs under `data/processed/`.

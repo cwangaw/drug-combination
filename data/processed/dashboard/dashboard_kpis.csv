@@ -1,0 +1,2 @@
+n_combinations,n_drugs,best_cell_viability,avg_cell_viability,best_experiment_id,best_model,best_test_mse
+256,4,0.42,0.7665,240,Lasso Regression (Studentized residual),0.003251

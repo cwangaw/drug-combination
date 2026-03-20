@@ -1,0 +1,17 @@
+drug_key,drug_name,level,mean_cell_viability,median_cell_viability,min_cell_viability,max_cell_viability,n_observations
+daunorubicin,Daunorubicin,0.0,0.795312,0.825,0.5,1.01,64
+daunorubicin,Daunorubicin,9.375,0.796719,0.825,0.5,0.98,64
+daunorubicin,Daunorubicin,18.75,0.774844,0.795,0.49,0.93,64
+daunorubicin,Daunorubicin,75.0,0.699062,0.71,0.42,0.94,64
+etoposide,Etoposide,0.0,0.799062,0.84,0.51,1.0,64
+etoposide,Etoposide,12.5,0.807969,0.83,0.51,1.01,64
+etoposide,Etoposide,25.0,0.769844,0.795,0.47,0.96,64
+etoposide,Etoposide,100.0,0.689062,0.73,0.42,0.88,64
+mitoxantrone,Mitoxantrone,0.0,0.79,0.8,0.54,1.0,64
+mitoxantrone,Mitoxantrone,5.0,0.775,0.805,0.46,0.98,64
+mitoxantrone,Mitoxantrone,10.0,0.750625,0.78,0.42,0.97,64
+mitoxantrone,Mitoxantrone,40.0,0.750312,0.78,0.47,1.01,64
+vincristine,Vincristine,0.0,0.856094,0.86,0.73,1.01,64
+vincristine,Vincristine,6.25,0.805625,0.805,0.56,0.98,64
+vincristine,Vincristine,12.5,0.780625,0.79,0.56,0.97,64
+vincristine,Vincristine,50.0,0.623594,0.615,0.42,0.83,64

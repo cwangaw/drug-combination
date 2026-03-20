@@ -1,0 +1,11 @@
+model,normalization,test_mse,rank_within_normalization,baseline_quadratic_mse,mse_reduction_vs_quadratic_pct
+Lasso Regression,Feature scaling,0.003252,1,0.027247,88.065
+Random Forest,Feature scaling,0.003298,2,0.027247,87.896
+Ridge Regression,Feature scaling,0.004062,3,0.027247,85.092
+MLP,Feature scaling,0.004596,4,0.027247,83.132
+Quadratic Regression,Feature scaling,0.027247,5,0.027247,0.0
+Lasso Regression,Studentized residual,0.003251,1,0.027247,88.068
+Random Forest,Studentized residual,0.003471,2,0.027247,87.261
+Ridge Regression,Studentized residual,0.00364,3,0.027247,86.641
+MLP,Studentized residual,0.005396,4,0.027247,80.196
+Quadratic Regression,Studentized residual,0.027247,5,0.027247,0.0

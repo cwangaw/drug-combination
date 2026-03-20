@@ -3,6 +3,11 @@
 .Rproj.user/
 *.Rproj
 .DS_Store
+Thumbs.db
 __pycache__/
 *.log
 results/tmp/
+
+# Tableau local extracts / temp files
+*.hyper
+*.tde
